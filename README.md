@@ -12,3 +12,5 @@ Files in this repository:
 "RAD-loci_IQtree.tre" Newick treefile resulting from the IQ-tree analysis of the RAD-loci alignment.
 
 "RAD-SNP_alignment.usnps.nex" NEXUS alignment of the RAD-SNP data of 50 samples.
+
+"RAD-SNP_SNAPP.trees" Set of Newick trees resulting from the BEAST SNAPP analysis.
